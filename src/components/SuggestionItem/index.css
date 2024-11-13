@@ -1,0 +1,21 @@
+/* Write your CSS here */
+
+.arrow {
+  width: 30px;
+  cursor: pointer;
+}
+
+.list-item {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 10px;
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 16px;
+}
+
+.list-item p {
+  margin: 10px;
+}
